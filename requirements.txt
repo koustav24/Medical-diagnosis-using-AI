@@ -1,0 +1,20 @@
+# Core libraries
+numpy==1.24.2
+pandas==1.5.3
+scikit-learn==1.2.1
+
+# Machine learning frameworks
+tensorflow==2.12.0
+keras==2.12.0
+
+# Data visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Jupyter environment
+jupyter==1.0.0
+ipykernel==6.21.3
+
+# Other utilities
+scipy==1.10.1
+plotly==5.14.1
