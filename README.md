@@ -113,7 +113,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 If you have any questions or suggestions, feel free to reach out:
 
 - **GitHub**: [koustav24](https://github.com/koustav24)
-- **Email**: [your-email@example.com](mailto:kosuatvkarmakar2004@gmail.com) *(Replace this with your actual email)*
+- **Email**: [koustavkarmakar2004@gmail.com](mailto:kosuatvkarmakar2004@gmail.com) *(Replace this with your actual email)*
 
 ---
 
