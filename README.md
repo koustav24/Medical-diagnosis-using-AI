@@ -1,7 +1,3 @@
-Here's an enhanced version of your README file with a well-structured design to make it more attractive and professional:
-
----
-
 # 🧠 Medical Diagnosis using AI
 
 Welcome to the **Medical Diagnosis using AI** repository! This project leverages the power of Artificial Intelligence to assist in medical diagnostics, providing innovative solutions for healthcare challenges. 🚑💡
