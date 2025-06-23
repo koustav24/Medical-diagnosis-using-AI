@@ -1,5 +1,6 @@
 # Web framework
 streamlit>=1.28.0
+streamlit-option-menu>=0.3.6
 
 # Core libraries
 numpy==1.23.5
